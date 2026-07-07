@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
-  <rect x="4" y="4" width="48" height="48" rx="12" fill="#F3E5F5"/>
-  <rect x="14" y="10" width="28" height="36" rx="5" fill="#9C27B0"/>
-  <line x1="18" y1="16" x2="38" y2="16" stroke="#E1BEE7" stroke-width="3" stroke-linecap="round"/>
-  <line x1="18" y1="22" x2="34" y2="22" stroke="#E1BEE7" stroke-width="3" stroke-linecap="round"/>
-  <line x1="18" y1="28" x2="30" y2="28" stroke="#E1BEE7" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="28" cy="38" r="5" fill="#E1BEE7"/>
+
+
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="24" fill="#E1E3E4"/>
+<path d="M28.0001 38.5L19.8334 34.0667V27.0667L15.1667 24.5L28.0001 17.5L40.8334 24.5V33.8333H38.5001V25.7833L36.1667 27.0667V34.0667L28.0001 38.5ZM28.0001 28.8167L35.9917 24.5L28.0001 20.1833L20.0084 24.5L28.0001 28.8167ZM28.0001 35.8458L33.8334 32.6958V28.2917L28.0001 31.5L22.1667 28.2917V32.6958L28.0001 35.8458Z" fill="#5F5E5E"/>
 </svg>
