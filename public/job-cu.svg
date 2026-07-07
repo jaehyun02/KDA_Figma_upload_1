@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="8" fill="#E8F5E9"/>
+  <rect x="8" y="10" width="48" height="44" rx="6" fill="#4CAF50"/>
+  <rect x="12" y="14" width="40" height="36" rx="4" fill="#C8E6C9"/>
+  <text x="32" y="36" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1B5E20" text-anchor="middle">CU</text>
+  <circle cx="20" cy="56" r="6" fill="#FFD700"/>
+  <circle cx="32" cy="56" r="6" fill="#FFD700"/>
+  <circle cx="44" cy="56" r="6" fill="#FFD700"/>
+  <text x="32" y="48" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#2E7D32" text-anchor="middle">24H</text>
+</svg>

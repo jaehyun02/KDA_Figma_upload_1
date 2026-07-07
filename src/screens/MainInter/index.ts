@@ -1,0 +1,1 @@
+export { MainInter } from "./MainInter";
