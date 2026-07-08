@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>문의하기</title>
+</head>
+<body>
+  <h1>문의하기</h1>
+
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <ul>
+      {% for msg in messages %}
+        <li>{{ msg }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  {% endwith %}
+
+  <form action="/submit" method="POST">
+    <label>이름: <input type="text" name="name" required></label><br>
+    <label>이메일: <input type="email" name="email" required></label><br>
+    <label>메시지:<br>
+      <textarea name="message" rows="4"></textarea>
+    </label><br>
+    <button type="submit">제출</button>
+  </form>
+</body>
+</html>
